@@ -1,10 +1,5 @@
 # Exercise 3.2: Analyzing Network Infrastructure with NET Analyzer
 
-## Course
-Wireless and Radiotechnology Course 2026
-
----
-
 ## Objective
 The objective of this experiment is to analyze a local Wi-Fi network using the NET Analyzer mobile application. The analysis focuses on understanding the network’s configuration, performance, and potential issues related to signal strength, latency, congestion, and infrastructure setup.
 
@@ -53,7 +48,8 @@ Due to iOS privacy and permission limitations, certain Wi-Fi parameters such as 
 ## Screenshots
 
 ### NET Analyzer – Network Information
-![NET Analyzer Wi-Fi Information](images/net_analyzer_info.png)
+![NET Analyzer Wi-Fi Information](images/Net_Analyzer_Info.PNG)
+
 
 The screenshot above was captured directly from the NET Analyzer application and used as evidence for the recorded measurements.
 

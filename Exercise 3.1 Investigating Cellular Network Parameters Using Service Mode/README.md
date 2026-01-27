@@ -1,7 +1,5 @@
 # Exercise 3.1: Investigating Cellular Network Parameters Using Service Mode
 
-## Course
-Wireless and Radiotechnology Course 2026
 
 ---
 
@@ -42,6 +40,15 @@ The following cellular network parameters were collected from Field Test Mode:
 ---
 
 ## Measurement Data
+  
+  ### Field Test Mode Screenshots
+
+**Measurement 1**
+![Measurement 1 - iOS Field Test Mode](images/field_test_1.png)
+
+**Measurement 2**
+![Measurement 2 - iOS Field Test Mode](images/field_test_2.png)
+
 
 | Parameter | Measurement 1 | Measurement 2 |
 |--------|--------------|--------------|
@@ -93,27 +100,9 @@ The following factors may have influenced the results:
 
 ---
 
-## Comparison (Optional)
-Only one smartphone and one mobile network operator were used for this experiment. Therefore, no cross-device or cross-operator comparison was performed.
-
----
-
 ## Conclusions
 This experiment demonstrates that good signal strength does not always result in good network performance. While RSRP values indicated strong reception, very low SINR values revealed high interference, which can negatively affect data speed and quality.
 
 The experiment emphasizes the importance of analyzing both signal strength and signal quality when evaluating cellular network performance.
 
 ---
-
-## Repository Contents
-This repository contains:
-- `README.md` – Experiment description, data, analysis, and conclusions  
-- Screenshots from iOS Field Test Mode  
-- Measurement tables and observations  
-
-All documentation is clear, structured, and technically accurate.
-
----
-
-## Submission
-The public GitHub repository link containing this README and supporting materials was submitted via Moodle.
